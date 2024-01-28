@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Horarios Lapso 2010-1 - Pregrado Ingenier&iacute;a </TITLE>
+ </HEAD>
+
+ <BODY>
+	<TABLE>
+	<TR>
+		<TD colspan="2" align="center">
+			<a href="1al3.pdf" target="_blank">
+			<IMG SRC="1al3.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="1er al 3er Semestre">
+			</a>
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="comunes.pdf" target="_blank">
+			<IMG SRC="comunes.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="Asignaturas Comunes">
+			</a>
+		</TD>
+		<TD>
+			<a href="industrial.pdf" target="_blank">
+			<IMG SRC="industrial.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="Ingenier&iacute;a Industrial">
+			</a>
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+			<a href="mecanica.pdf" target="_blank">
+			<IMG SRC="mecanica.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="Ingenier&iacute;a Mec&aacute;nica">
+			</a>
+		</TD>
+		<TD>
+			<a href="electrica.pdf" target="_blank">
+			<IMG SRC="electrica.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="Ingenier&iacute;a El&eacute;ctrica">
+			</a>
+		</TD>
+	</TR>
+		<TR>
+		<TD>
+			<a href="metalurgia.pdf" target="_blank">
+			<IMG SRC="metalurgia.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="Ingenier&iacute;a Metal&uacute;rgica">
+			</a>
+		</TD>
+		<TD>
+			<a href="electronica.pdf" target="_blank">
+			<IMG SRC="electronica.png" WIDTH="152" HEIGHT="63" BORDER="0" ALT="Ingenier&iacute;a Electr&oacute;nica">
+			</a>
+		</TD>
+	</TR>
+	</TABLE>
+  
+ </BODY>
+</HTML>
